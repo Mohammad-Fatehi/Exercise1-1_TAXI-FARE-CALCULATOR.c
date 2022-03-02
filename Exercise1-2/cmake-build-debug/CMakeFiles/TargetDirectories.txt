@@ -1,0 +1,3 @@
+C:/Users/TUF/Desktop/Exercise1-2/cmake-build-debug/CMakeFiles/Exercise1_2.dir
+C:/Users/TUF/Desktop/Exercise1-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TUF/Desktop/Exercise1-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
